@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> 
+<p align="left"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=MehdiAria&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiAria&layout=compact)](https://github.com/MehdiAria)
