@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Pytho
   
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Python Scraping/Crawling**
-- 🌱 &nbsp; I’m currently learning FastAPI; 
+- 🌱 &nbsp; I’m currently learning Docker; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehdiAria?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mehdi-shahidi/)
